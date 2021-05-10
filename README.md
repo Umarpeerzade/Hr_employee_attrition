@@ -30,7 +30,5 @@ The Random Forest model far outperformed the other approaches on the test and va
 *	**Random Forest Model(M2)**: Accuracy = 0.96 , Specificity=0.96
 
 
-*	**Ridge Regression**: RMSE=0.80 , RMSE=0.14
-* **PCA+ Linear Regression**: R2=0.82, RMSE=0.063
 
 
